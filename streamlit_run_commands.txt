@@ -1,0 +1,1 @@
+streamlit run  "C:\Users\mrpra\OneDrive\Desktop\HealthGuard_Predict_ml_web_app\ML_web_app.py"
